@@ -17,7 +17,7 @@ const Education = () => {
       institution: "Bhashyam Junior College",
       location: "Tirupati, Andhra Pradesh",
       years: "2019–2021",
-      grade: "92%",
+      grade: "96.2%",
     },
     {
       icon: <FaBook />,
